@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">vNotes</string>
+    <string name="search_text">Note\'s title</string>
+    <string name="note_list">Note List</string>
+    <string name="title_field_hint">Write title here…</string>
+    <string name="text_field_hint">Write content here…</string>
+    <string name="delete">Delete</string>
+    <string name="decline">Decline</string>
+    <string name="confirm">Confirm</string>
+    <string name="add">Add</string>
+</resources>
